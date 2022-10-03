@@ -11,6 +11,6 @@ Goblins <br>
 UW Control <br>
 Calibrated Blast <br>
 
-Website Link: https://AndrewPankoProjects.github.io/mtg_primers.github.io
+Website Link: https://AndrewPankoProjects.github.io/mtg_primers/
 
  
