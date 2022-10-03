@@ -1,14 +1,14 @@
 ## MTG PRIMERS
 
 Burn <br>
-Mono G Tron
-Mono U Tron
-Mono R Prowess
-UR Prowess
-Zoo Domain
-Prison Tron
-Goblins
-UW Control
+Mono G Tron <br>
+Mono U Tron <br>
+Mono R Prowess <br>
+UR Prowess <br>
+Zoo Domain <br>
+Prison Tron <br>
+Goblins <br>
+UW Control <br>
 Calibrated Blast
 
  
