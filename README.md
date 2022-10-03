@@ -1,6 +1,6 @@
 ## MTG PRIMERS
 
-Burn
+Burn <br>
 Mono G Tron
 Mono U Tron
 Mono R Prowess
