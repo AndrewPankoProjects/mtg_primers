@@ -13,9 +13,9 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Layout />}>
-          <Route index element={<Home />} />
-          <Route path="burn" element={<Burn/>} />
+        <Route path="/mtg_primers" element={<Layout />}>
+          <Route index path="Home" element={<Home />} />
+          <Route path="Burn" element={<Burn/>} />
           <Route path="ZooDomain" element={<ZooDomain/>} />
           <Route path="MonoRProwess" element={<MonoRProwess/>} />
           <Route path="UTron" element={<UTron/>} />

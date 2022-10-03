@@ -21,19 +21,19 @@ const Layout = () => {
         </div>
         <ul className = {clicked ? 'nav-menu active' : 'nav-menu' }>
           <li>
-            <Link className="nav-links" to="/">Home</Link>
+            <Link className="nav-links" to="Home">Home</Link>
           </li>
           <li>
-            <Link className="nav-links" to="/Burn">Burn</Link>
+            <Link className="nav-links" to="Burn">Burn</Link>
           </li>
           <li>
-            <Link className="nav-links" to="/ZooDomain">Zoo Domain</Link>
+            <Link className="nav-links" to="ZooDomain">Zoo Domain</Link>
           </li>
           <li>
-            <Link className="nav-links" to="/MonoRProwess">Mono R Prowess</Link>
+            <Link className="nav-links" to="MonoRProwess">Mono R Prowess</Link>
           </li>
           <li>
-            <Link className="nav-links" to="/UTron">U Tron</Link>
+            <Link className="nav-links" to="UTron">U Tron</Link>
           </li>
         </ul>
       </nav>
