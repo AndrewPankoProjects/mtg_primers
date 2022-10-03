@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mtg_primers/static/css/main.adce4480.css",
+    "main.js": "/mtg_primers/static/js/main.664af019.js",
+    "index.html": "/mtg_primers/index.html",
+    "main.adce4480.css.map": "/mtg_primers/static/css/main.adce4480.css.map",
+    "main.664af019.js.map": "/mtg_primers/static/js/main.664af019.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adce4480.css",
+    "static/js/main.664af019.js"
+  ]
+}
